@@ -1,0 +1,8 @@
+.thirgappa{
+    display: inline-block;
+    font-size: 25px;
+    color: black;
+    font-weight: light;
+    margin-right: 10px;
+    transform: rotate(-90deg);
+}
